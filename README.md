@@ -1,30 +1,48 @@
-# Romantic Python Surprise
+# Will you be my valentine?
 
-A Python program designed to surprise and impress your life partner on special occasions like Valentine's Day, anniversaries, or any other memorable event. This program combines graphics, text, love symbols, animations, and more to create a memorable experience for your loved one.
+**Valentine Page Creator**: https://i143.xyz/create
 
-## Features:
 
-- **Graphics:** Beautiful graphics to enhance the visual appeal of the surprise.
-- **Text:** Heartfelt messages and expressions of love to convey your feelings.
-- **Love Symbols:** Includes symbols associated with love and romance.
-- **Customization:** Easily customizable to tailor the surprise to your partner's preferences and interests.
-- **Special Occasions:** Perfect for occasions like Valentine's Day, anniversaries, birthdays, or any day you want to make special.
+## Custom Templates
+Click on the template of your choice, and create your valentine pages under 1 minute. : https://i143.xyz/templates
 
-## Usage:
+- **100% Free**. 🆓
+- Easy to Use. **No Codeing** required. 🎉
+- With **custom subdomain** of your choice (Obviously not claimed by anyone else). 🌍
+- With **custom texts** of your choice. 💬
+- With **custom images** of your choice. 👩‍❤️‍👨
+- With **40 Beautiful** templates to start from. 🤩
 
-1. **Installation:**
-   - Clone or download the repository to your local machine.
-   - Ensure you have Python installed.
-   
-2. **Setup:**
-   - Customize the program by modifying the text messages to suit your partner's tastes.
-   - Add any additional features or personal touches to make the surprise unique.
 
-3. **Execution:**
-   - Run the main Python script.
-   - Sit back and enjoy the reaction of your life partner as they experience the romantic surprise!
+# Demo
+Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
 
-## Example:
 
-```bash
-python impress_partner.py
+# Description
+This is a fun project for valentines day to bring smile on face of your special person!!
+
+This project is inspired from
+https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+
+# How to start
+```
+npm install -g pnpm
+pnpm i
+pnpm run dev
+```
+
+# Preview
+
+![image description](demo.gif)
+
+
+# How to deploy it
+```
+pnpm run deploy
+```
+
+# Reporting Issues
+
+You can report issues directly at saurabh@agnt.dev
+
+Made with ❤️ in Berlin!
